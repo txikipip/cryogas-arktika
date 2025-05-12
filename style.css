@@ -1,0 +1,6 @@
+
+body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; }
+header { background-color: #003366; color: white; padding: 20px; text-align: center; }
+main { padding: 20px; }
+footer { text-align: center; padding: 10px; background-color: #003366; color: white; position: fixed; bottom: 0; width: 100%; }
+ul { list-style-type: square; }
